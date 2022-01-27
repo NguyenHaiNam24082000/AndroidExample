@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home</string>
+</resources>

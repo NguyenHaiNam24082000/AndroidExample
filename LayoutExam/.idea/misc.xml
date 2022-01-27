@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_border.xml" value="0.1425925925925926" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_customer_support.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_don_hang.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_lock_open.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_phone_call.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_privacy.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_quan_tam.xml" value="0.2703125" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_single_folded_content.xml" value="0.2703125" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_user.xml" value="0.2703125" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/ic_wallet.xml" value="0.18611111111111112" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/drawable/shape.xml" value="0.14635416666666667" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/layout-v28/fragment_information.xml" value="0.4" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/layout/fragment_change_password.xml" value="0.4742468415937804" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/layout/fragment_information.xml" value="0.4" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Workspace/Android/LayoutExam/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
